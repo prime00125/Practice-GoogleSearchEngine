@@ -1,0 +1,34 @@
+.main {
+  position: absolute;
+  left: 30%;
+  top: 10%;
+  width: 600px;
+  height: 600px;
+}
+.logo {
+  width: 500px;
+  height: 200px;
+}
+.sicon {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top: 10px;
+}
+.search-input {
+  width: 400px;
+}
+.search-container {
+  box-shadow: 5px 5px 6px 9px grey;
+  border: none;
+  border-radius: 10px;
+  width: 500px;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+}
+.aicon {
+  width: 30px;
+  height: 30px;
+}
